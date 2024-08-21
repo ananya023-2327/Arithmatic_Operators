@@ -33,7 +33,7 @@ Refer to the attatched file.
 Refer to the attached file.  
 ## Program 3:
 ## Aim:
-program to calculate teh grade of student
+program to calculate the grade of student
 ## Theory:
 This C++ program calculates the grade of a student based on the marks obtained in five subjects: Mathematics, English, Hindi, Science, and Social Studies (SST). The program takes input marks for each subject, calculates the average percentage, and then determines the grade based on the average.
 The program uses conditional statements (if, else if, else) to determine the grade based on the average percentage.
